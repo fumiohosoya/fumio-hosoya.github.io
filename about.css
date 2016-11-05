@@ -64,10 +64,27 @@ header {
 
 .container1 {
     max-width: 800px;
-    margin: -200px auto 0;
+    margin: -100px auto 0;
     background-color: #fff;
 }
 
 section {
-    padding: 30px 40px;
+    padding: 30px 20px;
+}
+
+section h2 {
+    padding: 10px 0 20px 0;
+    text-align: center;
+    letter-spacing: 0.15em;
+}
+
+footer {
+    padding: 20px 0;
+    font-size: 93%;
+    text-align: center;
+    background-color: #ccc;
+    color: #666;
+}
+
+span.red { color: red;
 }
