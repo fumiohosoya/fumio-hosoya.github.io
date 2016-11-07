@@ -86,5 +86,19 @@ footer {
     color: #666;
 }
 
-span.red { color: red;
+span { 
+    color: red;
 }
+
+.urllist {
+    margin-left: 30px;
+}
+
+.btn-block {
+    width: 65%;
+}
+
+.table-bordered {
+    width: 65%;
+}
+
